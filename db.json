@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "age": "33",
+      "batch": "B11",
+      "mode": "Offline",
+      "id": "2"
+    },
+    {
+      "name": "Rohi",
+      "email": "rohi@gmail.com",
+      "age": "24",
+      "batch": "A11",
+      "mode": "Online",
+      "id": "3"
+    }
+  ]
+}
